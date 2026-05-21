@@ -1,0 +1,13 @@
+name: TheBeginningRecreated
+version: 1.0
+main: me.thebeginning.Main
+api-version: 1.16
+
+author: ChatGPT
+
+softdepend:
+  - WorldEdit
+
+commands:
+  thebeginning:
+    description: Main command
